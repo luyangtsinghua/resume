@@ -13,6 +13,9 @@ main:
     url: /awards/
     
   - title: "Services"
-    url: /services/    
+    url: /services/
+    
+  - title: "People"
+    url: /people/      
      
     
