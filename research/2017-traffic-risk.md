@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Role: *Main Participant*. Supported by *NSF of China* and *SIEMENS*.
+Role: **Main Participant**. Supported by *NSF of China* and *SIEMENS*.
 
 ## Research Contents
 
