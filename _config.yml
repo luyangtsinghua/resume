@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Jiawei Wang / PhD Student"
 title_separator          : "-"
-name                     : &name "Zizhao Zhang"
+name                     : &name "Jiawei Wang"
 description              : &description "personal homepage"
 url                      : https://wangjw18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
