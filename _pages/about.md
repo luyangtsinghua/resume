@@ -8,8 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! I am a PhD student (since 2018) in School of Vehicle and Mobility at Tsinghua University, advised by Prof. Keqiang Li. I received my Bachelor’s Degree at Tsinghua University. 
+Welcome to my home page! I am a second-year PhD student in School of Vehicle and Mobility at Tsinghua University, advised by Prof. Keqiang Li. I received my Bachelor’s Degree at Tsinghua University in 2018. 
 
 <!--Click [here](https://zzz14.github.io/files/CV-Zizhao.pdf) to view my up-to-date CV.-->
 
-My research interests include distributed control and optimization, with applications to connected and autonomous vehicles (CAVs). In particular, my current research topic focuses on modeling and control of mixed traffic systems with CAVs and human-driven vehicles (HDVs).
+## Research Interests
+
+- Distributed Control and Optimization
+- Connected and Autonomous Vehicle (CAV)
+- Intelligent Transportation Systems (ITS)
+
+## Current Research Topic
+
+- Modeling and Control of Mixed Traffic Systems with CAVs and Human-driven Vehicles (HDVs)
+
