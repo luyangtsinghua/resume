@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Zizhao Zhang / PhD Student"
+title                    : "Jiawei Wang / PhD Student"
 title_separator          : "-"
 name                     : &name "Zizhao Zhang"
 description              : &description "personal homepage"
-url                      : https://zzz14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangjw18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zzz14/zzz14.github.io"
+repository               : "wangjw18/wangjw18.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zizhao Zhang"
+  name             : "Jiawei Wang"
   avatar           : "zizhao.jpg"
-  bio              : "PhD student in School of Software, Tsinghua University"
+  bio              : "PhD student in School of Vehicle and Mobility, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zzz_14@126.com"
+  email            : "wangjw18@mails.tsinghua.edu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
