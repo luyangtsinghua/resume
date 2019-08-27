@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
-* Best Student Paper of Pacific-Rim Conference on Multimedia, 2018.
-* Outstanding Undergraduate Thesis Award, Tsinghua University, 2018.
-* “Academic Promotion Plan” Grant, Tsinghua Univeristy, 2018.
+* **Best Paper Award** in the 18th COTA International Conference for Transportation Professionals
+* Outstanding Undergraduate Thesis Award, Department of Automotive Engineering at Tsinghua University
+* Comprehensive Scholarship, Tsinghua University (Top 3 undergraduates in year 3)
+* Outstanding Student Leader Award, Tsinghua University
+* Comprehensive Scholarship, Tsinghua University (Top 3 undergraduates in year 2)
+* Outstanding Volunteer Scholarship, Tsinghua University
+* **National Scholarship**, Tsinghua University (Top 1 undergraduate in year 1)

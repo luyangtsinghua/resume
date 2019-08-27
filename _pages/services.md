@@ -7,12 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-* Organizer
-  * Tutorial on Hypergraph Learning: Methods, Tools and Applications in Medical Image Analysis (MICCAI 2019)
-* Program committee or reviewer for conferences
-  * International Joint Conference on Artificial Intelligence (IJCAI 2019)
-  * IEEE International Conference on Image Processing (ICIP 2019)
-  *	International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2019)
-* Reviewer for journals
-  * Journal of Visual Communication and Image Representation
-  * Neurocomputing
+* **Teaching Assistant**, the course of Vehicle Control Engineering at Tsinghua University, 2019
+
+* **Demonstrator**, Autonomous Driving Demonstration at Tsinghua University, 2018-present
+
+* **Volunteer**, 14th International Symposium on Advanced Vehicle Control (AVEC)
+
+* **Reviewer**, COTA International Conference for Transportation Professionals (CICTP)
+
+* * Tutorial on Hypergraph Learning: Methods, Tools and Applications in Medical Image Analysis (MICCAI 2019)
+
+  
