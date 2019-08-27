@@ -20,5 +20,5 @@ Welcome to my home page! I am a second-year PhD student in School of Vehicle and
 
 ## Current Research Topic
 
-- Modeling and Control of Mixed Traffic Systems with CAVs and Human-driven Vehicles (HDVs)
+- Modeling and Control of Mixed Traffic Systems with CAVs and Human-driven Vehicles
 

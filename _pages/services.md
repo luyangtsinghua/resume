@@ -15,6 +15,3 @@ redirect_from:
 
 * **Reviewer**, COTA International Conference for Transportation Professionals (CICTP)
 
-* * Tutorial on Hypergraph Learning: Methods, Tools and Applications in Medical Image Analysis (MICCAI 2019)
-
-  
