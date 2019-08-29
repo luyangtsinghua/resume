@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! I am currently a second-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by Prof. Keqiang Li. I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
+Welcome to my home page! I am currently a second-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by Prof. Keqiang Li and [Dr. Yang Zheng](http://users.ox.ac.uk/~ball4503/index.html). I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
 
 <!--Click [here](https://zzz14.github.io/files/CV-Zizhao.pdf) to view my up-to-date CV.-->
 
