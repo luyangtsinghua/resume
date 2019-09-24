@@ -9,7 +9,7 @@ redirect_from:
 
 ## School of Vehicle and Mobility, Tsinghua University
 ------
-**PhD Student of Mechanical Engineering, 2018-present. Total GPA: 4.0.**
+**PhD Student of Mechanical Engineering, 2018-present. Total GPA: 3.9. Rank: 1/56**
 I received a score of 4.0 for all my professional courses, including Methods of Optimization, Modern Method for Optimal Calculation, Modern Control Theory, Optimal Control and Vehicle Control Engineering.
 
 ##  Department of Computer Science and Technology, Tsinghua University
