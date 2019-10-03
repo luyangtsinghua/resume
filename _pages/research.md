@@ -13,6 +13,10 @@ Role: **Project Leader**. Supported by *TOYOTA*. 2018-present.
 
 Role: **Main Participant**. Supported by *CHINA MOBILE* and *NISSAN*. 2018-present.
 
+## [Survey on Demands, Applications and Development of Connected Autonomous Vehicles in China](https://wangjw18.github.io/research/2018-survey)
+
+Role: **Main Participant**. Supported by *HITACHI* and *CHINA MOBILE*. 2018-2019.
+
 ## [Research on the Influence of Autonomous Vehicles on Traffic Flow](https://wangjw18.github.io/research/2018-influence)
 
 Role: **Project Leader**. Supported by *TOYOTA*. 2018.
@@ -21,6 +25,3 @@ Role: **Project Leader**. Supported by *TOYOTA*. 2018.
 
 Role: **Main Participant**. Supported by *NSF of China* and *SIEMENS*. 2017.
 
-## [Survey on Demands, Applications and Development of Connected Autonomous Vehicles in China](https://wangjw18.github.io/research/2018-survey)
-
-Role: **Main Participant**. Supported by *HITACHI* and *CHINA MOBILE*. 2018-2019.
