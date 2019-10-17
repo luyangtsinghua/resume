@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+* Comprehensive Scholarship, Tsinghua University (Top 3 graduates in year 1)
 * **Best Paper Award** in the 18th COTA International Conference for Transportation Professionals
 * Outstanding Undergraduate Thesis Award, Department of Automotive Engineering at Tsinghua University
 * Comprehensive Scholarship, Tsinghua University (Top 3 undergraduates in year 3)
