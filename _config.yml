@@ -86,9 +86,9 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=XXFHGDEAAAAJ&hl=en"
   email            : "wang-jw18@mails.tsinghua.edu.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiawei_Wang27"
   uri              :
   bitbucket        :
   codepen          :
