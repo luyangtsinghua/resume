@@ -26,5 +26,8 @@ Welcome to my home page! I am currently a second-year PhD student in School of V
 
 - 03/2020: Our paper: [Optimal Formation of Autonomous Vehicles in Mixed Traffic Flow](https://wangjw18.github.io/publication/2020-IFAC) was accepted to the 21st IFAC World Congress (IFAC 2020).
 - 02/2020: Check out our new preprint: [Controllability Analysis and Optimal Control of Mixed Traffic Flow with Human-driven and Autonomous Vehicles](https://wangjw18.github.io/publication/2020-arxiv-controllability).
+- 01/2020: I completed the 2019 joint research project "Research on V2X-based Framework for Coordinated Control" as one of the project leaders, supported by Alliance Innovation Lab (Renault-Nissan-Mitsubishi).  
 - 01/2020: Our paper: [Smoothing Traffic Flow via Control of Autonomous Vehicles](https://wangjw18.github.io/publication/2019-iotj) was accepted for publication in the IEEE Internet of Things Journal.
+- 10/2019: I was awarded the Comprehensive Scholarship at Tsinghua University (rank Top 3 in School of Vehicle and Mobility).
+- 06/2019: I attended the IEEE IV 2019 in Paris, France from June 9 to June 11, 2019. 
 - 04/2019: Our paper: [Controllability Analysis and Optimal Controller Synthesis of Mixed Traffic Systems](https://wangjw18.github.io/publication/2019-IV) was accepted to the 30th IEEE Intelligent Vehicles Symposium (IV 2019).
