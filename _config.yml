@@ -253,6 +253,10 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# Google Analytics
+google_analytics: UA-173355818-1
+
+
 
 # Outputting
 permalink: /:categories/:title/
