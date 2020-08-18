@@ -6,14 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* **Reviewer:** 
-	* Journal:
-		* IEEE Transactions on Intelligent Transportation Systems
-		* International Journal of Systems Science
-		* Asian Journal of Control
-	* Conference:
-		* ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
-		* COTA International Conference for Transportation Professionals (CICTP)
+* **Reviewer:**  Journal: IEEE Transactions on Intelligent Transportation Systems, International Journal of Systems Science, Asian Journal of Control; Conference: ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), COTA International Conference for Transportation Professionals (CICTP)
 
 * **Demonstrator:** Autonomous Driving Demonstration at Tsinghua University, 2018-present
 
