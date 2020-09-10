@@ -24,6 +24,7 @@ Welcome to my home page! I am currently a second-year PhD student in School of V
 
 ## Updates
 
+- 09/2020: Chick out our new preprint: [Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning](https://wangjw18.github.io/publication/2020-arXiv).
 - 07/2020: Our paper: [Leading Cruise Control in Mixed Traffic Flow](https://wangjw18.github.io/publication/2020-CDC) was accepted to the 59th IEEE Conference on Decision and Control (CDC 2020).
 - 06/2020: Our paper: [Controllability Analysis and Optimal Control of Mixed Traffic Flow with Human-driven and Autonomous Vehicles](https://wangjw18.github.io/publication/2020-TITS) was accepted for publication in the IEEE Transactions on Intelligent Transportation Systems.
 - 03/2020: Our paper: [Optimal Formation of Autonomous Vehicles in Mixed Traffic Flow](https://wangjw18.github.io/publication/2020-IFAC) was accepted to the 21st IFAC World Congress (IFAC 2020).
