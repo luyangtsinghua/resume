@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+* 2020, **National Scholarship**, Tsinghua University
 * 2019, Comprehensive Scholarship, Tsinghua University (Top 3 graduates in year 1)
 * 2018, **Best Paper Award** in the 18th COTA International Conference for Transportation Professionals
 * 2018, Outstanding Undergraduate Thesis Award, Department of Automotive Engineering at Tsinghua University
