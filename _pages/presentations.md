@@ -19,3 +19,5 @@ redirect_from:
 - [Optimal Formation of Autonomous Vehicles in Mixed Traffic Flow](https://wangjw18.github.io/files/2020-IFAC-slides.pdf)
   - July 2020, 21st IFAC World Congress, Germany (virtual presentation)
   - Oct 2020, Academic Forum for Intelligent Vehicles at Tsinghua University, Beijing, China (First Prize for Presentation)
+- [Leading Cruise Control in Mixed Traffic Flow](https://wangjw18.github.io/files/2020-CDC-slides.pdf)
+  - Incoming on Dec 2020, 59th IEEE Conference on Decision and Control, Republic of Korea (virtual presentation)
