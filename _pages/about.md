@@ -24,6 +24,10 @@ Welcome to my home page! I am currently a third-year PhD student in School of Ve
 
 ## Updates
 
+- 12/2020: Chick out our new preprint: [Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability
+](https://wangjw18.github.io/publication/2020-arXiv-intersection).
+- 12/2020: I completed the 2020 joint research project "Research on V2X-based Cooperative Control Algorithms for Intelligent and Connected Vehicles" as one of the project leaders, supported by Alliance Innovation Lab (Renault-Nissan-Mitsubishi).
+- 11/2020: Chick out our new preprint: [Mixed platoon control of automated and human-driven vehicles at a signalized intersection: dynamical analysis and optimal control](https://wangjw18.github.io/publication/2020-arXiv-intersection).
 - 10/2020: I was awarded the National Scholarship at Tsinghua University.
 - 09/2020: Chick out our new preprint: [Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning](https://wangjw18.github.io/publication/2020-arXiv).
 - 07/2020: Our paper: [Leading Cruise Control in Mixed Traffic Flow](https://wangjw18.github.io/publication/2020-CDC) was accepted to the 59th IEEE Conference on Decision and Control (CDC 2020).
