@@ -6,13 +6,27 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* **Reviewer:**  Journal: IEEE Transactions on Intelligent Transportation Systems, International Journal of Systems Science, Asian Journal of Control, ACM Transactions on Cyber-Physical Systems; Conference: ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), COTA International Conference for Transportation Professionals (CICTP)
+- **Reviewer for Journal**  
+	- IEEE Transactions on Intelligent Transportation Systems
+	- International Journal of Systems Science
+	- Asian Journal of Control
+	- ACM Transactions on Cyber-Physical Systems
 
-* **Demonstrator:** Autonomous Driving Demonstration at Tsinghua University, 2018-present
+- **Reviewer for Conference**
+	- ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
+	- COTA International Conference for Transportation Professionals (CICTP)
 
-* **Volunteer:** 14th International Symposium on Advanced Vehicle Control (AVEC)
+- **Teaching Assistant** 
+	- Vehicle Control Engineering, 2020
+	- Calculus A, 2020
 
-* **Teaching Assistant:** Vehicle Control Engineering, 2020; Calculus A, 2020
+- **Demonstrator** 
+	- Autonomous Driving Demonstration at Tsinghua University, 2018-2020
+	
+- **Volunteer** 
+	- 14th International Symposium on Advanced Vehicle Control (AVEC)
+
+
 
 
 
