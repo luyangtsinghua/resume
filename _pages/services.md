@@ -11,8 +11,7 @@ redirect_from:
 	- Transportation Research Part C: Emerging Technologies
 	- International Journal of Systems Science
 	- Asian Journal of Control
-- ACM Transactions on Cyber-Physical Systems
-	
+	- ACM Transactions on Cyber-Physical Systems
 - **Reviewer for Conference**
 	- ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
 	- COTA International Conference for Transportation Professionals (CICTP)
