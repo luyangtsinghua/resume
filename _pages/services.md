@@ -13,6 +13,7 @@ redirect_from:
 	- Asian Journal of Control
 	- ACM Transactions on Cyber-Physical Systems
 - **Reviewer for Conference**
+	- IEEE Conference on Decision and Control
 	- ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
 	- COTA International Conference for Transportation Professionals (CICTP)
 
