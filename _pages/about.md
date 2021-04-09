@@ -14,6 +14,7 @@ Welcome to my home page! I am currently a third-year PhD student in School of Ve
 
 ## Research Interests
 
+- Data-driven Control
 - Distributed Control and Optimization
 - Connected and Autonomous Vehicle (CAV)
 - Intelligent Transportation Systems (ITS)
