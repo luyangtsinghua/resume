@@ -13,10 +13,11 @@ redirect_from:
 	- Asian Journal of Control
 	- ACM Transactions on Cyber-Physical Systems
 - **Reviewer for Conference**
-	- IEEE Conference on Decision and Control
+	- IEEE Conference on Decision and Control (CDC)
+	- IEEE International Conference on Intelligent Transportation (ITSC)
 	- ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
-	- COTA International Conference for Transportation Professionals (CICTP)
-
+- COTA International Conference for Transportation Professionals (CICTP)
+	
 - **Teaching Assistant** 
 	- Vehicle Control Engineering, 2020
 	- Calculus, 2020
