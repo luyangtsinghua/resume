@@ -21,14 +21,17 @@ Welcome to my home page! I am currently a third-year PhD student in School of Ve
 
 ## Current Research Topic
 
-- Modeling and Control of Mixed Traffic Systems with CAVs and Human-driven Vehicles
+- Modeling and control of mixed traffic systems with CAVs and human-driven vehicles
+- Data-driven control for CAVs with safety guarantee
 
 ## Updates
 
+- 06/2021: Two collabrative papers on cooperative formation and decision of CAVs at various traffic scenarios were accepted by the 24th IEEE International Conference on Intelligent Transportation (ITSC 2021).
 - 04/2021: Our paper: [Mixed platoon control of automated and human-driven vehicles at a signalized intersection: dynamical analysis and optimal control](https://wangjw18.github.io/publication/2020-arXiv-intersection) was accepted for publication in the Transportation Research Part C: Emerging Technologies.
+- 01/2021: Two open source projects have been published: [Leading Cruise Control](https://github.com/wangjw18/LCC) and [Mixed Traffic](https://github.com/wangjw18/mixed-traffic). Welcome to check it out! 
 - 12/2020: Check out our new preprint: [Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability
 ](https://wangjw18.github.io/publication/2020-arXiv-lcc).
-- 12/2020: I completed the 2020 joint research project "Research on V2X-based Cooperative Control Algorithms for Intelligent and Connected Vehicles" as one of the project leaders, supported by Alliance Innovation Lab (Renault-Nissan-Mitsubishi).
+- 12/2020: I completed the 2020 joint research project "Research on V2X-based Cooperative Control Algorithms for Intelligent and Connected Vehicles" as one of the project leaders, supported by Alliance Innovation Lab (Renault-Nissan-Mitsubishi). 
 - 11/2020: Check out our new preprint: [Mixed platoon control of automated and human-driven vehicles at a signalized intersection: dynamical analysis and optimal control](https://wangjw18.github.io/publication/2020-arXiv-intersection).
 - 10/2020: I was awarded the National Scholarship at Tsinghua University.
 - 09/2020: Check out our new preprint: [Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning](https://wangjw18.github.io/publication/2020-arXiv).
