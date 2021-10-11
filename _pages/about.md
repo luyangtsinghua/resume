@@ -26,6 +26,8 @@ Welcome to my home page! I am currently a third-year PhD student in School of Ve
 
 ## Updates
 
+- 09/2021: Our paper [Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability
+](https://wangjw18.github.io/publication/2020-arXiv-lcc) was accepted for publication in the IEEE Transactions on Intelligent Transportation Systems.
 - 06/2021: Two collabrative papers on cooperative formation and decision of CAVs at various traffic scenarios were accepted by the 24th IEEE International Conference on Intelligent Transportation (ITSC 2021).
 - 04/2021: Our paper: [Mixed platoon control of automated and human-driven vehicles at a signalized intersection: dynamical analysis and optimal control](https://wangjw18.github.io/publication/2020-arXiv-intersection) was accepted for publication in the Transportation Research Part C: Emerging Technologies.
 - 01/2021: Two open source projects have been published: [Leading Cruise Control](https://github.com/wangjw18/LCC) and [Mixed Traffic](https://github.com/wangjw18/mixed-traffic). Welcome to check it out! 
