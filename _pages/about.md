@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! I am currently a third-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by [Prof. Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=en&oi=ao) and [Dr. Yang Zheng](https://zhengy09.github.io/index.html). I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
+Welcome to my home page! I am currently a fourth-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by [Prof. Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=en&oi=ao) and [Dr. Yang Zheng](https://zhengy09.github.io/index.html). I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
 
 <!--Click [here](https://zzz14.github.io/files/CV-Zizhao.pdf) to view my up-to-date CV.-->
 
@@ -26,6 +26,7 @@ Welcome to my home page! I am currently a third-year PhD student in School of Ve
 
 ## Updates
 
+- 10/2021: Check out our new preprint: [Data-Driven Predictive Control for Connected and Autonomous Vehicles in Mixed Traffic](https://arxiv.org/abs/2110.10097).
 - 09/2021: Our paper [Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability
 ](https://wangjw18.github.io/publication/2020-arXiv-lcc) was accepted for publication in the IEEE Transactions on Intelligent Transportation Systems.
 - 06/2021: Two collabrative papers on cooperative formation and decision of CAVs at various traffic scenarios were accepted by the 24th IEEE International Conference on Intelligent Transportation (ITSC 2021).
