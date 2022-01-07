@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! I am currently a fourth-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by [Prof. Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=en&oi=ao) and [Dr. Yang Zheng](https://zhengy09.github.io/index.html). I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
+Welcome to my home page! I am currently a fourth-year PhD student in School of Vehicle and Mobility at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), advised by [Prof. Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=en&oi=ao) and [Dr. Yang Zheng](https://zhengy09.github.io/index.html). I am also a visiting PhD student in [Laboratoire d’Automatique](https://www.epfl.ch/labs/la/) at [EPFL](https://www.epfl.ch/en/), advised by [Prof. Colin Jones](https://people.epfl.ch/colin.jones). I received my Bachelor’s Degree at Tsinghua University in 2018. Feel free to contact me (wang-jw18@mails.tsinghua.edu.cn) if you are interested in my work.
 
 <!--Click [here](https://zzz14.github.io/files/CV-Zizhao.pdf) to view my up-to-date CV.-->
 
