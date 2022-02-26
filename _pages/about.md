@@ -26,6 +26,8 @@ Welcome to my home page! I am currently a fourth-year PhD student in School of V
 
 ## Updates
 
+- 01/2022: Our paper [Data-Driven Predictive Control for Connected and Autonomous Vehicles in Mixed Traffic](https://arxiv.org/abs/2110.10097) was accepted to 2022 American Control Conference.
+- 12/2021: Our paper [Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning](https://wangjw18.github.io/publication/2020-arXiv) was accepted for publication in the IEEE Transactions on Intelligent Transportation Systems.
 - 10/2021: Check out our new preprint: [Data-Driven Predictive Control for Connected and Autonomous Vehicles in Mixed Traffic](https://arxiv.org/abs/2110.10097).
 - 09/2021: Our paper [Leading Cruise Control in Mixed Traffic Flow: System Modeling, Controllability, and String Stability
 ](https://wangjw18.github.io/publication/2020-arXiv-lcc) was accepted for publication in the IEEE Transactions on Intelligent Transportation Systems.
