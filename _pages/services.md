@@ -9,6 +9,7 @@ redirect_from:
 - **Reviewer for Journal**  
 	- IEEE Transactions on Intelligent Transportation Systems
 	- Transportation Research Part C: Emerging Technologies
+	- Optimal Control, Applications and Methods
 	- International Journal of Systems Science
 	- Asian Journal of Control
 	- ACM Transactions on Cyber-Physical Systems
