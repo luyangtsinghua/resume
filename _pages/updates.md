@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Updates
 
 - 04/2022: Check out our new preprint: [Experimental Validation of DeeP-LCC for Dissipating Stop-and-Go Waves in Mixed Traffic](https://arxiv.org/abs/2204.03747), and the two videos on the experiments: [Video 1](https://www.youtube.com/watch?v=ZZ2cWhapqpc) and [Video 2](https://www.youtube.com/watch?v=YhxCZImcZL4).
 - 01/2022: Our paper [Data-Driven Predictive Control for Connected and Autonomous Vehicles in Mixed Traffic](https://arxiv.org/abs/2110.10097) was accepted to 2022 American Control Conference.
