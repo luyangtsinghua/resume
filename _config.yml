@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Jiawei Wang / PhD Student"
+title                    : "YangLu / Teacher"
 title_separator          : "-"
-name                     : &name "Jiawei Wang"
+name                     : &name "Lu Yang"
 description              : &description "personal homepage"
 url                      : https://wangjw18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiawei Wang"
+  name             : "Lu Yang"
   avatar           : "jiawei_2.jpg"
   bio              : "PhD student in School of Vehicle and Mobility, Tsinghua University"
   location         : "Beijing, China"
