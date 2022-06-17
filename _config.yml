@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "YangLu / Teacher"
+title                    : "Lu Yang/ Teacher"
 title_separator          : "-"
 name                     : &name "Lu Yang"
 description              : &description "personal homepage"
